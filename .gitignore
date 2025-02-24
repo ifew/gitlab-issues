@@ -1,0 +1,8 @@
+node_modules/
+*.xlsx
+*.xls
+*.git
+*.htaccess
+*.log
+package-lock.json
+package.json
